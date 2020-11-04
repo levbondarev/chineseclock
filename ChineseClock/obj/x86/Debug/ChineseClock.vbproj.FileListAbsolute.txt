@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\bin\Debug\ChineseClock.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\bin\Debug\ChineseClock.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\bin\Debug\ChineseClock.xml
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.xml
+C:\Users\admin\documents\visual studio 2010\Projects\ChineseClock\ChineseClock\obj\x86\Debug\ChineseClock.pdb
